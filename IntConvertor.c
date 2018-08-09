@@ -1,5 +1,5 @@
 /* Author: Harsh Patel
-   CodeName: hw3.c
+   CodeName: IntConvertor.c
    Description: To convert a given int to hexadecimal,binary and octal. Also to
                 save the results in the requested text file.
   GNumber: G01018715
